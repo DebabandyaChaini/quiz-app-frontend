@@ -1,0 +1,25 @@
+.google_logo {
+  height: 40px;
+}
+
+.or {
+  justify-content: center;
+  width: 80%;
+  text-align: center;
+  border-bottom: 1px solid rgb(138, 129, 129);
+  line-height: 0.1em;
+  margin: 10px 50px 20px;
+}
+
+.or span {
+  background: #fff;
+  padding: 0 10px;
+}
+
+.menuButton{
+  margin-left: 1px;
+}
+
+.profilePic{
+  margin-left: 1400px;
+}
